@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/obj/Debug/net8.0/scopedcss/projectbundle/CRUDFABIOCHOAEF.bundle.scp.css",
+      "PackagePath": "staticwebassets/CRUDFABIOCHOAEF.bundle.scp.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/css/custom.css",
+      "PackagePath": "staticwebassets/css/custom.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/arbolito.webp",
+      "PackagePath": "staticwebassets/images/arbolito.webp"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/biblio.jpeg",
+      "PackagePath": "staticwebassets/images/biblio.jpeg"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/bil.jpeg",
+      "PackagePath": "staticwebassets/images/bil.jpeg"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/borrar.png",
+      "PackagePath": "staticwebassets/images/borrar.png"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/buscar.png",
+      "PackagePath": "staticwebassets/images/buscar.png"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/copiar.png",
+      "PackagePath": "staticwebassets/images/copiar.png"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/csv.png",
+      "PackagePath": "staticwebassets/images/csv.png"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/editar.png",
+      "PackagePath": "staticwebassets/images/editar.png"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/excel.png",
+      "PackagePath": "staticwebassets/images/excel.png"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/filtrar.png",
+      "PackagePath": "staticwebassets/images/filtrar.png"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/fresh.jpg",
+      "PackagePath": "staticwebassets/images/fresh.jpg"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/imprimir.png",
+      "PackagePath": "staticwebassets/images/imprimir.png"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/libreria.jpeg",
+      "PackagePath": "staticwebassets/images/libreria.jpeg"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/images/pdf.png",
+      "PackagePath": "staticwebassets/images/pdf.png"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/carlitos/Documentos/CRUDFABIOCHOAEF/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.CRUDFABIOCHOAEF.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.CRUDFABIOCHOAEF.props",
+      "PackagePath": "build\\CRUDFABIOCHOAEF.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CRUDFABIOCHOAEF.props",
+      "PackagePath": "buildMultiTargeting\\CRUDFABIOCHOAEF.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CRUDFABIOCHOAEF.props",
+      "PackagePath": "buildTransitive\\CRUDFABIOCHOAEF.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
